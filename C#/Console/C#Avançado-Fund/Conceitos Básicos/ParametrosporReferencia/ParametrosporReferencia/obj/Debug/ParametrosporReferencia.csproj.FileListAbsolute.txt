@@ -1,0 +1,7 @@
+C:\Users\NICOL\OneDrive\Área de Trabalho\ParametrosporReferencia\ParametrosporReferencia\bin\Debug\ParametrosporReferencia.exe.config
+C:\Users\NICOL\OneDrive\Área de Trabalho\ParametrosporReferencia\ParametrosporReferencia\bin\Debug\ParametrosporReferencia.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\ParametrosporReferencia\ParametrosporReferencia\bin\Debug\ParametrosporReferencia.pdb
+C:\Users\NICOL\OneDrive\Área de Trabalho\ParametrosporReferencia\ParametrosporReferencia\obj\Debug\ParametrosporReferencia.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\ParametrosporReferencia\ParametrosporReferencia\obj\Debug\ParametrosporReferencia.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\ParametrosporReferencia\ParametrosporReferencia\obj\Debug\ParametrosporReferencia.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\ParametrosporReferencia\ParametrosporReferencia\obj\Debug\ParametrosporReferencia.pdb

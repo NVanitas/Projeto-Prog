@@ -1,0 +1,7 @@
+C:\Users\NICOL\OneDrive\Área de Trabalho\ClasseeObjetos\ClasseeObjetos\bin\Debug\ClasseeObjetos.exe.config
+C:\Users\NICOL\OneDrive\Área de Trabalho\ClasseeObjetos\ClasseeObjetos\bin\Debug\ClasseeObjetos.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\ClasseeObjetos\ClasseeObjetos\bin\Debug\ClasseeObjetos.pdb
+C:\Users\NICOL\OneDrive\Área de Trabalho\ClasseeObjetos\ClasseeObjetos\obj\Debug\ClasseeObjetos.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\ClasseeObjetos\ClasseeObjetos\obj\Debug\ClasseeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\ClasseeObjetos\ClasseeObjetos\obj\Debug\ClasseeObjetos.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\ClasseeObjetos\ClasseeObjetos\obj\Debug\ClasseeObjetos.pdb

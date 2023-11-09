@@ -1,0 +1,7 @@
+C:\Users\NICOL\OneDrive\Área de Trabalho\ParametroPadrao\ParametroPadrao\bin\Debug\ParametroPadrao.exe.config
+C:\Users\NICOL\OneDrive\Área de Trabalho\ParametroPadrao\ParametroPadrao\bin\Debug\ParametroPadrao.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\ParametroPadrao\ParametroPadrao\bin\Debug\ParametroPadrao.pdb
+C:\Users\NICOL\OneDrive\Área de Trabalho\ParametroPadrao\ParametroPadrao\obj\Debug\ParametroPadrao.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\ParametroPadrao\ParametroPadrao\obj\Debug\ParametroPadrao.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\ParametroPadrao\ParametroPadrao\obj\Debug\ParametroPadrao.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\ParametroPadrao\ParametroPadrao\obj\Debug\ParametroPadrao.pdb

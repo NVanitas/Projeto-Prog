@@ -1,0 +1,7 @@
+C:\Users\NICOL\Downloads\Fund_1_Brad\Fund_1_Brad\bin\Debug\Fund_1_Brad.exe.config
+C:\Users\NICOL\Downloads\Fund_1_Brad\Fund_1_Brad\bin\Debug\Fund_1_Brad.exe
+C:\Users\NICOL\Downloads\Fund_1_Brad\Fund_1_Brad\bin\Debug\Fund_1_Brad.pdb
+C:\Users\NICOL\Downloads\Fund_1_Brad\Fund_1_Brad\obj\Debug\Fund_1_Brad.csproj.AssemblyReference.cache
+C:\Users\NICOL\Downloads\Fund_1_Brad\Fund_1_Brad\obj\Debug\Fund_1_Brad.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\Downloads\Fund_1_Brad\Fund_1_Brad\obj\Debug\Fund_1_Brad.exe
+C:\Users\NICOL\Downloads\Fund_1_Brad\Fund_1_Brad\obj\Debug\Fund_1_Brad.pdb

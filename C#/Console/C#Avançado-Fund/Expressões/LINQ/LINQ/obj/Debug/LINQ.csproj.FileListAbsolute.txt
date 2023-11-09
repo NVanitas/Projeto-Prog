@@ -1,0 +1,7 @@
+C:\Users\NICOL\OneDrive\Área de Trabalho\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\NICOL\OneDrive\Área de Trabalho\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\NICOL\OneDrive\Área de Trabalho\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\LINQ\LINQ\obj\Debug\LINQ.pdb

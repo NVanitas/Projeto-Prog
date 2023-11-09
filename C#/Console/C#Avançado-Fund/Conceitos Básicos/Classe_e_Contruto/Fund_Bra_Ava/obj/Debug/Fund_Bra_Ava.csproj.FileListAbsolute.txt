@@ -1,0 +1,7 @@
+C:\Users\NICOL\OneDrive\Área de Trabalho\Fund_Bra_Ava\Fund_Bra_Ava\obj\Debug\Fund_Bra_Ava.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\Fund_Bra_Ava\Fund_Bra_Ava\obj\Debug\Fund_Bra_Ava.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\Fund_Bra_Ava\Fund_Bra_Ava\bin\Debug\Fund_Bra_Ava.exe.config
+C:\Users\NICOL\OneDrive\Área de Trabalho\Fund_Bra_Ava\Fund_Bra_Ava\bin\Debug\Fund_Bra_Ava.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\Fund_Bra_Ava\Fund_Bra_Ava\bin\Debug\Fund_Bra_Ava.pdb
+C:\Users\NICOL\OneDrive\Área de Trabalho\Fund_Bra_Ava\Fund_Bra_Ava\obj\Debug\Fund_Bra_Ava.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\Fund_Bra_Ava\Fund_Bra_Ava\obj\Debug\Fund_Bra_Ava.pdb

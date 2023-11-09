@@ -1,0 +1,10 @@
+C:\Users\labs\Documents\AM_IC_NS\Aula_M2_C\Aula_M2_C\bin\Debug\Aula_M2_C.exe.config
+C:\Users\labs\Documents\AM_IC_NS\Aula_M2_C\Aula_M2_C\bin\Debug\Aula_M2_C.exe
+C:\Users\labs\Documents\AM_IC_NS\Aula_M2_C\Aula_M2_C\bin\Debug\Aula_M2_C.pdb
+C:\Users\labs\Documents\AM_IC_NS\Aula_M2_C\Aula_M2_C\obj\Debug\Aula_M2_C.csprojAssemblyReference.cache
+C:\Users\labs\Documents\AM_IC_NS\Aula_M2_C\Aula_M2_C\obj\Debug\Aula_M2_C.Form1.resources
+C:\Users\labs\Documents\AM_IC_NS\Aula_M2_C\Aula_M2_C\obj\Debug\Aula_M2_C.Properties.Resources.resources
+C:\Users\labs\Documents\AM_IC_NS\Aula_M2_C\Aula_M2_C\obj\Debug\Aula_M2_C.csproj.GenerateResource.cache
+C:\Users\labs\Documents\AM_IC_NS\Aula_M2_C\Aula_M2_C\obj\Debug\Aula_M2_C.csproj.CoreCompileInputs.cache
+C:\Users\labs\Documents\AM_IC_NS\Aula_M2_C\Aula_M2_C\obj\Debug\Aula_M2_C.exe
+C:\Users\labs\Documents\AM_IC_NS\Aula_M2_C\Aula_M2_C\obj\Debug\Aula_M2_C.pdb

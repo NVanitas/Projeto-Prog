@@ -1,0 +1,15 @@
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo_Console\Estudo_Console\obj\Debug\net6.0\Estudo_Console.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo_Console\Estudo_Console\obj\Debug\net6.0\Estudo_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo_Console\Estudo_Console\obj\Debug\net6.0\Estudo_Console.AssemblyInfoInputs.cache
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo_Console\Estudo_Console\obj\Debug\net6.0\Estudo_Console.AssemblyInfo.cs
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo_Console\Estudo_Console\obj\Debug\net6.0\Estudo_Console.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo_Console\Estudo_Console\bin\Debug\net6.0\Estudo_Console.exe
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo_Console\Estudo_Console\bin\Debug\net6.0\Estudo_Console.deps.json
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo_Console\Estudo_Console\bin\Debug\net6.0\Estudo_Console.runtimeconfig.json
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo_Console\Estudo_Console\bin\Debug\net6.0\Estudo_Console.dll
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo_Console\Estudo_Console\bin\Debug\net6.0\Estudo_Console.pdb
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo_Console\Estudo_Console\obj\Debug\net6.0\Estudo_Console.dll
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo_Console\Estudo_Console\obj\Debug\net6.0\refint\Estudo_Console.dll
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo_Console\Estudo_Console\obj\Debug\net6.0\Estudo_Console.pdb
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo_Console\Estudo_Console\obj\Debug\net6.0\Estudo_Console.genruntimeconfig.cache
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo_Console\Estudo_Console\obj\Debug\net6.0\ref\Estudo_Console.dll

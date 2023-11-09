@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>LOGIN-JAVA</title>
+	<!-- comentario html -->
+	<style type="text/css">
+		
+		@import url("estilo.css");
+	
+	</style>
+
+	<script type="text/javascript">
+		//comentario em java
+		function Login() {
+			var user=document.frm_login.txt_usuario.value;
+			var email=document.frm_login.txt_usuario.value;
+			var pass=document.frm_login.txt_senha.value;
+
+			if ((user=="fatec" || email=="fatec@fatec") && pass=="123a") {
+				alert("Conta Validada com Sucesso!!!");
+				window.location="http://www.google.com.br";
+			}
+			else {
+				alert("Conta Inválida!!!");
+				document.frm_login.txt_usuario.value="";
+				document.frm_login.txt_senha.value="";
+				document.frm_login.txt_usuario.focus();
+			}
+		}
+
+		function Limpar() {
+				document.frm_login.txt_usuario.value="";
+				document.frm_login.txt_senha.value="";
+				document.frm_login.txt_usuario.focus();
+		}
+
+		function verifica_cores(){	
+			var cores=document.frm_login.cor.value;
+			switch (cores) {
+				case 'azul':
+					document.bgColor='blue';
+					break;
+				case 'verde':
+					document.bgColor='green';
+					break;
+				case 'amarelo':
+					document.bgColor='yellow';
+					break;
+				case 'cinza':
+					document.bgColor='gray';
+					break;
+				default:
+					document.bgColor='white';
+					break;
+			}
+		}
+	</script>
+</head>
+
+<body>
+	<form name="frm_login">
+		<p>
+			<h2>AREA DE SEGURANÇA</h2>
+				<fieldset>
+					<legend>Identificação da Conta</legend>
+					Usuário ou E-mail:<br>
+					<input id="caixa" type="text" name="txt_usuario" size="40" maxlength="40" required><p>
+					Senha:<br>
+					<input id="caixa" type="password" name="txt_senha" size="40" maxlength="15" required><p>
+					<input id="botao" type="button" name="btn_login" value="Login" onclick="Login()">&nbsp;&nbsp;
+					<input id="botao" type="button" name="btn_limpar" value="Limpar" onclick="Limpar()">&nbsp;&nbsp;
+
+				</fieldset>
+				<p>
+				<fieldset>
+					<legend>Escolha seu Plano de Fundo:</legend>
+					<input type="radio" name="cor" value="azul" onclick="verifica_cores()">Azul 
+					<input type="radio" name="cor" value="verde" onclick="verifica_cores()">Verde
+					<input type="radio" name="cor" value="amarelo" onclick="verifica_cores()">Amarelo
+					<input type="radio" name="cor" value="cinza" onclick="verifica_cores()">Cinza
+					<input type="radio" name="cor" value="branco" onclick="verifica_cores()">Branco
+				</fieldset>
+	</form>
+</body>
+</html>

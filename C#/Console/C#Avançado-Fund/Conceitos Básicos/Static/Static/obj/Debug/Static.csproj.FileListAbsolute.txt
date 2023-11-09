@@ -1,0 +1,7 @@
+C:\Users\NICOL\OneDrive\Área de Trabalho\Static\Static\bin\Debug\Static.exe.config
+C:\Users\NICOL\OneDrive\Área de Trabalho\Static\Static\bin\Debug\Static.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\Static\Static\bin\Debug\Static.pdb
+C:\Users\NICOL\OneDrive\Área de Trabalho\Static\Static\obj\Debug\Static.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\Static\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\Static\Static\obj\Debug\Static.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\Static\Static\obj\Debug\Static.pdb

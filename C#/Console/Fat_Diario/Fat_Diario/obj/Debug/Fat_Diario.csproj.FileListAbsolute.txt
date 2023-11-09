@@ -1,0 +1,7 @@
+C:\Users\NICOL\OneDrive\Área de Trabalho\Fat_Diario\Fat_Diario\bin\Debug\Fat_Diario.exe.config
+C:\Users\NICOL\OneDrive\Área de Trabalho\Fat_Diario\Fat_Diario\bin\Debug\Fat_Diario.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\Fat_Diario\Fat_Diario\bin\Debug\Fat_Diario.pdb
+C:\Users\NICOL\OneDrive\Área de Trabalho\Fat_Diario\Fat_Diario\obj\Debug\Fat_Diario.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\Fat_Diario\Fat_Diario\obj\Debug\Fat_Diario.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\Fat_Diario\Fat_Diario\obj\Debug\Fat_Diario.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\Fat_Diario\Fat_Diario\obj\Debug\Fat_Diario.pdb

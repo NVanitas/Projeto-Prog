@@ -1,0 +1,7 @@
+C:\Users\NICOL\OneDrive\Área de Trabalho\Rev_Class_Ex\Rev_Class_Ex\obj\Debug\Rev_Class_Ex.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\Rev_Class_Ex\Rev_Class_Ex\obj\Debug\Rev_Class_Ex.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\Rev_Class_Ex\Rev_Class_Ex\bin\Debug\Rev_Class_Ex.exe.config
+C:\Users\NICOL\OneDrive\Área de Trabalho\Rev_Class_Ex\Rev_Class_Ex\bin\Debug\Rev_Class_Ex.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\Rev_Class_Ex\Rev_Class_Ex\bin\Debug\Rev_Class_Ex.pdb
+C:\Users\NICOL\OneDrive\Área de Trabalho\Rev_Class_Ex\Rev_Class_Ex\obj\Debug\Rev_Class_Ex.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\Rev_Class_Ex\Rev_Class_Ex\obj\Debug\Rev_Class_Ex.pdb

@@ -1,0 +1,7 @@
+C:\Users\NICOL\OneDrive\Área de Trabalho\Extensoes\Extensoes\bin\Debug\Extensoes.exe.config
+C:\Users\NICOL\OneDrive\Área de Trabalho\Extensoes\Extensoes\bin\Debug\Extensoes.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\Extensoes\Extensoes\bin\Debug\Extensoes.pdb
+C:\Users\NICOL\OneDrive\Área de Trabalho\Extensoes\Extensoes\obj\Debug\Extensoes.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\Extensoes\Extensoes\obj\Debug\Extensoes.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\Extensoes\Extensoes\obj\Debug\Extensoes.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\Extensoes\Extensoes\obj\Debug\Extensoes.pdb

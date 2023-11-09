@@ -1,0 +1,7 @@
+C:\Users\NICOL\OneDrive\Área de Trabalho\BuscaSequencial\BuscaSequencial\bin\Debug\BuscaSequencial.exe.config
+C:\Users\NICOL\OneDrive\Área de Trabalho\BuscaSequencial\BuscaSequencial\bin\Debug\BuscaSequencial.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\BuscaSequencial\BuscaSequencial\bin\Debug\BuscaSequencial.pdb
+C:\Users\NICOL\OneDrive\Área de Trabalho\BuscaSequencial\BuscaSequencial\obj\Debug\BuscaSequencial.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\BuscaSequencial\BuscaSequencial\obj\Debug\BuscaSequencial.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\BuscaSequencial\BuscaSequencial\obj\Debug\BuscaSequencial.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\BuscaSequencial\BuscaSequencial\obj\Debug\BuscaSequencial.pdb

@@ -1,0 +1,7 @@
+C:\Users\NICOL\OneDrive\Área de Trabalho\Enumeracao\Enumeracao\bin\Debug\Enumeracao.exe.config
+C:\Users\NICOL\OneDrive\Área de Trabalho\Enumeracao\Enumeracao\bin\Debug\Enumeracao.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\Enumeracao\Enumeracao\bin\Debug\Enumeracao.pdb
+C:\Users\NICOL\OneDrive\Área de Trabalho\Enumeracao\Enumeracao\obj\Debug\Enumeracao.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\Enumeracao\Enumeracao\obj\Debug\Enumeracao.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\Enumeracao\Enumeracao\obj\Debug\Enumeracao.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\Enumeracao\Enumeracao\obj\Debug\Enumeracao.pdb

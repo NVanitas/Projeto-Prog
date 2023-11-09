@@ -1,0 +1,11 @@
+C:\Users\NICOL\Downloads\Ex_5atv\Ex_5atv\obj\Debug\Ex_5atv.csproj.AssemblyReference.cache
+C:\Users\NICOL\Downloads\Ex_5atv\Ex_5atv\obj\Debug\Ex_5atv.csproj.SuggestedBindingRedirects.cache
+C:\Users\NICOL\Downloads\Ex_5atv\Ex_5atv\obj\Debug\Ex_5atv.Form1.resources
+C:\Users\NICOL\Downloads\Ex_5atv\Ex_5atv\obj\Debug\Ex_5atv.Properties.Resources.resources
+C:\Users\NICOL\Downloads\Ex_5atv\Ex_5atv\obj\Debug\Ex_5atv.csproj.GenerateResource.cache
+C:\Users\NICOL\Downloads\Ex_5atv\Ex_5atv\obj\Debug\Ex_5atv.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\Downloads\Ex_5atv\Ex_5atv\bin\Debug\Ex_5atv.exe.config
+C:\Users\NICOL\Downloads\Ex_5atv\Ex_5atv\bin\Debug\Ex_5atv.exe
+C:\Users\NICOL\Downloads\Ex_5atv\Ex_5atv\bin\Debug\Ex_5atv.pdb
+C:\Users\NICOL\Downloads\Ex_5atv\Ex_5atv\obj\Debug\Ex_5atv.exe
+C:\Users\NICOL\Downloads\Ex_5atv\Ex_5atv\obj\Debug\Ex_5atv.pdb

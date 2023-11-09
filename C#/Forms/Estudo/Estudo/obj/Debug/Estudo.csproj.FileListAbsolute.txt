@@ -1,0 +1,11 @@
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo\Estudo\obj\Debug\Estudo.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo\Estudo\obj\Debug\Estudo.csproj.SuggestedBindingRedirects.cache
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo\Estudo\obj\Debug\Estudo.Form1.resources
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo\Estudo\obj\Debug\Estudo.Properties.Resources.resources
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo\Estudo\obj\Debug\Estudo.csproj.GenerateResource.cache
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo\Estudo\obj\Debug\Estudo.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo\Estudo\bin\Debug\Estudo.exe.config
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo\Estudo\bin\Debug\Estudo.exe
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo\Estudo\bin\Debug\Estudo.pdb
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo\Estudo\obj\Debug\Estudo.exe
+C:\Users\NICOL\OneDrive\Documentos\C#\Estudo\Estudo\obj\Debug\Estudo.pdb

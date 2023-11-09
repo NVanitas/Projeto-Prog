@@ -1,0 +1,8 @@
+C:\Users\NICOL\OneDrive\Documentos\Progamação\C#\Pilhas_C#\Pilhas_C#\obj\Debug\Pilhas_C#.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Documentos\Progamação\C#\Pilhas_C#\Pilhas_C#\obj\Debug\Pilhas_C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\NICOL\OneDrive\Documentos\Progamação\C#\Pilhas_C#\Pilhas_C#\obj\Debug\Pilhas_C#.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Documentos\Progamação\C#\Pilhas_C#\Pilhas_C#\bin\Debug\Pilhas_C#.exe.config
+C:\Users\NICOL\OneDrive\Documentos\Progamação\C#\Pilhas_C#\Pilhas_C#\bin\Debug\Pilhas_C#.exe
+C:\Users\NICOL\OneDrive\Documentos\Progamação\C#\Pilhas_C#\Pilhas_C#\bin\Debug\Pilhas_C#.pdb
+C:\Users\NICOL\OneDrive\Documentos\Progamação\C#\Pilhas_C#\Pilhas_C#\obj\Debug\Pilhas_C#.exe
+C:\Users\NICOL\OneDrive\Documentos\Progamação\C#\Pilhas_C#\Pilhas_C#\obj\Debug\Pilhas_C#.pdb

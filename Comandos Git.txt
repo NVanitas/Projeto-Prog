@@ -1,0 +1,15 @@
+Comandos Git
+
+git --version // ve a versão
+
+git init //inicia  o git para criar repositorio
+
+git add //adiciona o arquivo na area de stading
+
+git status //mostra o status
+
+git commit -m "primeiro commit"    //comitar
+
+git branch -M "main" // renomear branch
+
+$git remote add origin https://github.com/NVanitas/ProjectGit.git

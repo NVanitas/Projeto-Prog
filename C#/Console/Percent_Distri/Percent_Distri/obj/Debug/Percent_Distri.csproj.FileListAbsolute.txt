@@ -1,0 +1,7 @@
+C:\Users\NICOL\OneDrive\Área de Trabalho\Percent_Distri\Percent_Distri\bin\Debug\Percent_Distri.exe.config
+C:\Users\NICOL\OneDrive\Área de Trabalho\Percent_Distri\Percent_Distri\bin\Debug\Percent_Distri.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\Percent_Distri\Percent_Distri\bin\Debug\Percent_Distri.pdb
+C:\Users\NICOL\OneDrive\Área de Trabalho\Percent_Distri\Percent_Distri\obj\Debug\Percent_Distri.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\Percent_Distri\Percent_Distri\obj\Debug\Percent_Distri.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\Percent_Distri\Percent_Distri\obj\Debug\Percent_Distri.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\Percent_Distri\Percent_Distri\obj\Debug\Percent_Distri.pdb

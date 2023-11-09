@@ -1,0 +1,7 @@
+C:\Users\labs\Desktop\Aula_M4\Aula_M4\bin\Debug\Aula_M4.exe.config
+C:\Users\labs\Desktop\Aula_M4\Aula_M4\bin\Debug\Aula_M4.exe
+C:\Users\labs\Desktop\Aula_M4\Aula_M4\bin\Debug\Aula_M4.pdb
+C:\Users\labs\Desktop\Aula_M4\Aula_M4\obj\Debug\Aula_M4.csprojAssemblyReference.cache
+C:\Users\labs\Desktop\Aula_M4\Aula_M4\obj\Debug\Aula_M4.csproj.CoreCompileInputs.cache
+C:\Users\labs\Desktop\Aula_M4\Aula_M4\obj\Debug\Aula_M4.exe
+C:\Users\labs\Desktop\Aula_M4\Aula_M4\obj\Debug\Aula_M4.pdb

@@ -1,0 +1,7 @@
+C:\Users\NICOL\OneDrive\Área de Trabalho\Parametros_Variaveis\Parametros_Variaveis\bin\Debug\Parametros_Variaveis.exe.config
+C:\Users\NICOL\OneDrive\Área de Trabalho\Parametros_Variaveis\Parametros_Variaveis\bin\Debug\Parametros_Variaveis.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\Parametros_Variaveis\Parametros_Variaveis\bin\Debug\Parametros_Variaveis.pdb
+C:\Users\NICOL\OneDrive\Área de Trabalho\Parametros_Variaveis\Parametros_Variaveis\obj\Debug\Parametros_Variaveis.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\Parametros_Variaveis\Parametros_Variaveis\obj\Debug\Parametros_Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\Parametros_Variaveis\Parametros_Variaveis\obj\Debug\Parametros_Variaveis.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\Parametros_Variaveis\Parametros_Variaveis\obj\Debug\Parametros_Variaveis.pdb

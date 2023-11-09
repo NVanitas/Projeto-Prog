@@ -1,0 +1,7 @@
+C:\Users\NICOL\OneDrive\Área de Trabalho\Get_Set\Get_Set\bin\Debug\Get_Set.exe.config
+C:\Users\NICOL\OneDrive\Área de Trabalho\Get_Set\Get_Set\bin\Debug\Get_Set.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\Get_Set\Get_Set\bin\Debug\Get_Set.pdb
+C:\Users\NICOL\OneDrive\Área de Trabalho\Get_Set\Get_Set\obj\Debug\Get_Set.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\Get_Set\Get_Set\obj\Debug\Get_Set.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\Get_Set\Get_Set\obj\Debug\Get_Set.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\Get_Set\Get_Set\obj\Debug\Get_Set.pdb

@@ -1,0 +1,10 @@
+C:\Users\labs\Desktop\Aula5_Zoom\Aula5_Zoom\bin\Debug\Aula5_Zoom.exe.config
+C:\Users\labs\Desktop\Aula5_Zoom\Aula5_Zoom\bin\Debug\Aula5_Zoom.exe
+C:\Users\labs\Desktop\Aula5_Zoom\Aula5_Zoom\bin\Debug\Aula5_Zoom.pdb
+C:\Users\labs\Desktop\Aula5_Zoom\Aula5_Zoom\obj\Debug\Aula5_Zoom.csprojAssemblyReference.cache
+C:\Users\labs\Desktop\Aula5_Zoom\Aula5_Zoom\obj\Debug\Aula5_Zoom.Form1.resources
+C:\Users\labs\Desktop\Aula5_Zoom\Aula5_Zoom\obj\Debug\Aula5_Zoom.Properties.Resources.resources
+C:\Users\labs\Desktop\Aula5_Zoom\Aula5_Zoom\obj\Debug\Aula5_Zoom.csproj.GenerateResource.cache
+C:\Users\labs\Desktop\Aula5_Zoom\Aula5_Zoom\obj\Debug\Aula5_Zoom.csproj.CoreCompileInputs.cache
+C:\Users\labs\Desktop\Aula5_Zoom\Aula5_Zoom\obj\Debug\Aula5_Zoom.exe
+C:\Users\labs\Desktop\Aula5_Zoom\Aula5_Zoom\obj\Debug\Aula5_Zoom.pdb

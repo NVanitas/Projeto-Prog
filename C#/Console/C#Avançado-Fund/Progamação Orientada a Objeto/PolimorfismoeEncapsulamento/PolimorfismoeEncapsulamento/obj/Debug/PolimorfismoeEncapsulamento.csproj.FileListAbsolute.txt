@@ -1,0 +1,7 @@
+C:\Users\NICOL\OneDrive\Área de Trabalho\PolimorfismoeEncapsulamento\PolimorfismoeEncapsulamento\bin\Debug\PolimorfismoeEncapsulamento.exe.config
+C:\Users\NICOL\OneDrive\Área de Trabalho\PolimorfismoeEncapsulamento\PolimorfismoeEncapsulamento\bin\Debug\PolimorfismoeEncapsulamento.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\PolimorfismoeEncapsulamento\PolimorfismoeEncapsulamento\bin\Debug\PolimorfismoeEncapsulamento.pdb
+C:\Users\NICOL\OneDrive\Área de Trabalho\PolimorfismoeEncapsulamento\PolimorfismoeEncapsulamento\obj\Debug\PolimorfismoeEncapsulamento.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\PolimorfismoeEncapsulamento\PolimorfismoeEncapsulamento\obj\Debug\PolimorfismoeEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\PolimorfismoeEncapsulamento\PolimorfismoeEncapsulamento\obj\Debug\PolimorfismoeEncapsulamento.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\PolimorfismoeEncapsulamento\PolimorfismoeEncapsulamento\obj\Debug\PolimorfismoeEncapsulamento.pdb

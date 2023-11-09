@@ -1,0 +1,32 @@
+body {
+  background: #111111;
+  margin: 250px;
+  text-align: left;
+  border-radius: 10px;
+  border-color: darkgray;
+  border-style: solid;
+  border-width: 2px;
+  display: inline-block;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+td {
+  color: white;
+  text-align: center;
+}
+
+#card,
+#back {
+  background-color: #111111;
+  color: white;
+}
+
+div.box {
+  width: 400px;
+  display: inline-block;
+  color: blueviolet;
+}

@@ -1,0 +1,52 @@
+<style type="text/css">
+
+p {margin-top: 3cm;}
+
+/*comentario em css*/
+
+h2 {
+	background-color:black;
+	font-family: arial;
+	font-style: italic;
+	color:white;
+	text-align: center;
+	font-weight: bold;
+	font-size:40px;
+}
+
+#caixa {
+	background-color: gray;
+	border-radius: 10px;
+	height: 30px;
+	border-style: 10px solid;
+	border-color: black;
+}
+
+#caixa:focus {
+	font-size: large;
+	background-color: white;
+	border-style: 12px;
+	color:blue;
+	box-shadow: 0 0 30px red;
+}
+
+#botao {
+	height: 45px;
+	width: 150px;
+	background-color: gray;
+	color: orange;
+	font-style: arial;
+	font-size: medium;
+	border-style: 2px solid;
+	box-shadow: 0 0 6px;
+	border-radius: 100px;
+}
+
+#botao:hover {
+	font-size: xx-large;
+	background-color: black;
+	color:white;
+	box-shadow: 0 0 40px green;
+}
+
+</style>

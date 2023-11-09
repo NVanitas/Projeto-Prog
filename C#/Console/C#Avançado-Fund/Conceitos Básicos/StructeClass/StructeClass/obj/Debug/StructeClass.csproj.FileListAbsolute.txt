@@ -1,0 +1,7 @@
+C:\Users\NICOL\OneDrive\Área de Trabalho\StructeClass\StructeClass\bin\Debug\StructeClass.exe.config
+C:\Users\NICOL\OneDrive\Área de Trabalho\StructeClass\StructeClass\bin\Debug\StructeClass.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\StructeClass\StructeClass\bin\Debug\StructeClass.pdb
+C:\Users\NICOL\OneDrive\Área de Trabalho\StructeClass\StructeClass\obj\Debug\StructeClass.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\StructeClass\StructeClass\obj\Debug\StructeClass.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\StructeClass\StructeClass\obj\Debug\StructeClass.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\StructeClass\StructeClass\obj\Debug\StructeClass.pdb

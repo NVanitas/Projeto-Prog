@@ -1,0 +1,7 @@
+C:\Users\NICOL\OneDrive\Área de Trabalho\LAMBDA\LAMBDA\bin\Debug\LAMBDA.exe.config
+C:\Users\NICOL\OneDrive\Área de Trabalho\LAMBDA\LAMBDA\bin\Debug\LAMBDA.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\LAMBDA\LAMBDA\bin\Debug\LAMBDA.pdb
+C:\Users\NICOL\OneDrive\Área de Trabalho\LAMBDA\LAMBDA\obj\Debug\LAMBDA.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\LAMBDA\LAMBDA\obj\Debug\LAMBDA.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\LAMBDA\LAMBDA\obj\Debug\LAMBDA.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\LAMBDA\LAMBDA\obj\Debug\LAMBDA.pdb

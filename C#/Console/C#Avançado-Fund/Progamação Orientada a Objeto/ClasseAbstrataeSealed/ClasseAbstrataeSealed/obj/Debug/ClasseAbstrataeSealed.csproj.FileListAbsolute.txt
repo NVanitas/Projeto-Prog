@@ -1,0 +1,7 @@
+C:\Users\NICOL\OneDrive\Área de Trabalho\ClasseAbstrataeSealed\ClasseAbstrataeSealed\bin\Debug\ClasseAbstrataeSealed.exe.config
+C:\Users\NICOL\OneDrive\Área de Trabalho\ClasseAbstrataeSealed\ClasseAbstrataeSealed\bin\Debug\ClasseAbstrataeSealed.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\ClasseAbstrataeSealed\ClasseAbstrataeSealed\bin\Debug\ClasseAbstrataeSealed.pdb
+C:\Users\NICOL\OneDrive\Área de Trabalho\ClasseAbstrataeSealed\ClasseAbstrataeSealed\obj\Debug\ClasseAbstrataeSealed.csproj.AssemblyReference.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\ClasseAbstrataeSealed\ClasseAbstrataeSealed\obj\Debug\ClasseAbstrataeSealed.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\OneDrive\Área de Trabalho\ClasseAbstrataeSealed\ClasseAbstrataeSealed\obj\Debug\ClasseAbstrataeSealed.exe
+C:\Users\NICOL\OneDrive\Área de Trabalho\ClasseAbstrataeSealed\ClasseAbstrataeSealed\obj\Debug\ClasseAbstrataeSealed.pdb
