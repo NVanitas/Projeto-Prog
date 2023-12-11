@@ -19,3 +19,13 @@ C:\Users\NICOL\Downloads\Aula_09_05_classe\Aula_09_05_classe\Aula_09_05_classe\o
 C:\Users\NICOL\Downloads\Aula_09_05_classe\Aula_09_05_classe\Aula_09_05_classe\obj\Debug\Aula_09_05_classe.csproj.CoreCompileInputs.cache
 C:\Users\NICOL\Downloads\Aula_09_05_classe\Aula_09_05_classe\Aula_09_05_classe\obj\Debug\Aula_09_05_classe.exe
 C:\Users\NICOL\Downloads\Aula_09_05_classe\Aula_09_05_classe\Aula_09_05_classe\obj\Debug\Aula_09_05_classe.pdb
+C:\Users\NICOL\Documents\Progamação\Projeto-Prog\C#\Forms\PA E PG\Aula_09_05_classe\Aula_09_05_classe\bin\Debug\Aula_09_05_classe.exe.config
+C:\Users\NICOL\Documents\Progamação\Projeto-Prog\C#\Forms\PA E PG\Aula_09_05_classe\Aula_09_05_classe\bin\Debug\Aula_09_05_classe.exe
+C:\Users\NICOL\Documents\Progamação\Projeto-Prog\C#\Forms\PA E PG\Aula_09_05_classe\Aula_09_05_classe\bin\Debug\Aula_09_05_classe.pdb
+C:\Users\NICOL\Documents\Progamação\Projeto-Prog\C#\Forms\PA E PG\Aula_09_05_classe\Aula_09_05_classe\obj\Debug\Aula_09_05_classe.csproj.AssemblyReference.cache
+C:\Users\NICOL\Documents\Progamação\Projeto-Prog\C#\Forms\PA E PG\Aula_09_05_classe\Aula_09_05_classe\obj\Debug\Aula_09_05_classe.Form1.resources
+C:\Users\NICOL\Documents\Progamação\Projeto-Prog\C#\Forms\PA E PG\Aula_09_05_classe\Aula_09_05_classe\obj\Debug\Aula_09_05_classe.Properties.Resources.resources
+C:\Users\NICOL\Documents\Progamação\Projeto-Prog\C#\Forms\PA E PG\Aula_09_05_classe\Aula_09_05_classe\obj\Debug\Aula_09_05_classe.csproj.GenerateResource.cache
+C:\Users\NICOL\Documents\Progamação\Projeto-Prog\C#\Forms\PA E PG\Aula_09_05_classe\Aula_09_05_classe\obj\Debug\Aula_09_05_classe.csproj.CoreCompileInputs.cache
+C:\Users\NICOL\Documents\Progamação\Projeto-Prog\C#\Forms\PA E PG\Aula_09_05_classe\Aula_09_05_classe\obj\Debug\Aula_09_05_classe.exe
+C:\Users\NICOL\Documents\Progamação\Projeto-Prog\C#\Forms\PA E PG\Aula_09_05_classe\Aula_09_05_classe\obj\Debug\Aula_09_05_classe.pdb
